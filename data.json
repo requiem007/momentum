@@ -1,0 +1,38 @@
+[
+    {
+        "text": "I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.",
+        "author": "Alan Kay"
+    },
+    {
+        "text": "Beware of bugs in the above code; I have only proved it correct, not tried it.",
+        "author": "Donald E. Knuth"
+    },
+    {
+        "text": "Computer system analysis is like child-rearing; you can do grievous damage, but you cannot ensure success." ,
+        "author": "Tom DeMarco"
+    },
+    {
+        "text": "I don't care if it works on your machine! We are not shipping your machine!" ,
+        "author": "Vidiu Platon"
+    },
+    {
+        "text": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code." ,
+        "author" : "Christopher Thompson"
+    },
+    {
+        "text" : "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it." ,
+        "author" : "Brian W. Kernighan"
+    },
+    {
+        "text" : "First learn computer science and all the theory. Next develop a programming style. Then forget all that and just hack." ,
+        "author" : "George Carrette"
+    },
+    {
+        "text" : "Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris." ,
+        "author" : "Larry Wall"
+    },
+    {
+        "text" : "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late." ,
+        "author" : "Seymour Cray"
+    }
+]
